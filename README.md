@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://sergiojimenezdev.com/">Sergio Jiménez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/u5o77hU.png">
+<img src="https://i.imgur.com/A1qE86R.png">
 
 ## Sobre mi
 
