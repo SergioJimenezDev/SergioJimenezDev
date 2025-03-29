@@ -12,25 +12,29 @@
 <br>
 
 ## Proyectos *bombitas*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Java Desde 0</h3>
-<div align="center">
-<a href="https://www.youtube.com/watch?v=ZQqaw2HovmM&t=634s" target="_blank"><img src="https://i.imgur.com/tLX0XQQ.png" width="400" alt="Curso Java Desde 0"></a>
-<p>
-<p>Aprende a programar en <strong>Java desde cero</strong> - En este curso aprenderás todo lo necesario, no se requiere tener ningún conocimiento previo.
-</div>                                                                                      
-</td>
-<td width="50%">
-<h3 align="center">Recreación Pokemon En Java</h3>
-<div align="center">                                       
-<a href="https://www.youtube.com/watch?v=dNGCZosfeAk" target="_blank"><img src="https://i.imgur.com/hyftmwV.png" width="400" alt="Recreación Pokemon En Java"></a>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <h3>Curso Java Desde 0</h3>
+      <div>
+        <a href="https://www.youtube.com/watch?v=ZQqaw2HovmM&t=634s" target="_blank">
+          <img src="https://i.imgur.com/tLX0XQQ.png" style="width: 100%; max-width: 400px; height: auto;" alt="Curso Java Desde 0">
+        </a>
+        <p>Aprende a programar en <strong>Java desde cero</strong> - En este curso aprenderás todo lo necesario, no se requiere tener ningún conocimiento previo.</p>
+      </div>
+    </td>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <h3>Recreación Pokemon En Java</h3>
+      <div>
+        <a href="https://www.youtube.com/watch?v=dNGCZosfeAk" target="_blank">
+          <img src="https://i.imgur.com/hyftmwV.png" style="width: 100%; max-width: 400px; height: auto;" alt="Recreación Pokemon En Java">
+        </a>
+        <p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <table>
 <tr>
