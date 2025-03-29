@@ -62,11 +62,7 @@
   </div>
 </div>
 </p>
-
-
-
-
-
+<br>
 
 ## Proyectos *destacados*
 <table>
