@@ -40,7 +40,7 @@
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/tLX0XQQ.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -58,7 +58,7 @@
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/hyftmwV.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
