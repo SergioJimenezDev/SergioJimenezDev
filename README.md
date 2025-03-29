@@ -37,12 +37,12 @@
 
   <!-- Mobile Development -->
   <h3>Mobile Development</h3>
+  <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=3ddc84&labelColor=282828">
   <img src="https://img.shields.io/badge/-Android/Kotlin-3ddc84?style=for-the-badge&logo=android&logoColor=3ddc84&labelColor=282828">
 
   <!-- Tools -->
   <h3>Tools</h3>
   <img src="https://img.shields.io/badge/-Virtual%20Box-607d8b?style=for-the-badge&logo=virtualbox&logoColor=607d8b&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=3ddc84&labelColor=282828">
   <img src="https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=for-the-badge&logo=visual-studio&logoColor=5c2d91&labelColor=282828">
   <img src="https://img.shields.io/badge/-Eclipse-2c2255?style=for-the-badge&logo=eclipse&logoColor=2c2255&labelColor=282828">
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=000000&labelColor=282828">
