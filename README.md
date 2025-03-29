@@ -14,44 +14,55 @@
 ## Tech Stack
 
 <p>
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px; background-color: #282828; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <!-- Frontend -->
-  <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Thymeleaf-005f0f?style=for-the-badge&logo=thymeleaf&logoColor=005f0f&labelColor=282828">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <h3 style="color: #fff;">Frontend</h3>
+    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+    <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Thymeleaf-005f0f?style=for-the-badge&logo=thymeleaf&logoColor=005f0f&labelColor=282828">
+  </div>
 
   <!-- Backend -->
-  <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=007396&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6db33f?style=for-the-badge&logo=spring-boot&logoColor=6db33f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PLSQL-bd0202?style=for-the-badge&logo=oracle&logoColor=bd0202&labelColor=282828">
-  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=282828">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <h3 style="color: #fff;">Backend</h3>
+    <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=007396&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Spring%20Boot-6db33f?style=for-the-badge&logo=spring-boot&logoColor=6db33f&labelColor=282828">
+    <img src="https://img.shields.io/badge/-PLSQL-bd0202?style=for-the-badge&logo=oracle&logoColor=bd0202&labelColor=282828">
+    <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=282828">
+  </div>
 
   <!-- Game Development -->
-  <h3>Game Development</h3>
-  <img src="https://img.shields.io/badge/-Unity-ffffff?style=for-the-badge&logo=unity&logoColor=ffffff&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C%23-68217a?style=for-the-badge&logo=c-sharp&logoColor=68217a&labelColor=282828">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <h3 style="color: #fff;">Game Development</h3>
+    <img src="https://img.shields.io/badge/-Unity-ffffff?style=for-the-badge&logo=unity&logoColor=ffffff&labelColor=282828">
+    <img src="https://img.shields.io/badge/-C%23-68217a?style=for-the-badge&logo=c-sharp&logoColor=68217a&labelColor=282828">
+  </div>
 
   <!-- Mobile Development -->
-  <h3>Mobile Development</h3>
-  <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=3ddc84&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Android/Kotlin-3ddc84?style=for-the-badge&logo=android&logoColor=3ddc84&labelColor=282828">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <h3 style="color: #fff;">Mobile Development</h3>
+    <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=3ddc84&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Android/Kotlin-3ddc84?style=for-the-badge&logo=android&logoColor=3ddc84&labelColor=282828">
+  </div>
 
   <!-- Tools -->
-  <h3>Tools</h3>
-  <img src="https://img.shields.io/badge/-Virtual%20Box-607d8b?style=for-the-badge&logo=virtualbox&logoColor=607d8b&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=for-the-badge&logo=visual-studio&logoColor=5c2d91&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Eclipse-2c2255?style=for-the-badge&logo=eclipse&logoColor=2c2255&labelColor=282828">
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=000000&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NetBeans-2e6f95?style=for-the-badge&logo=netbeans&logoColor=2e6f95&labelColor=282828">
-  <img src="https://img.shields.io/badge/-XAMPP-f76d57?style=for-the-badge&logo=xampp&logoColor=f76d57&labelColor=282828">
-  <img src="https://img.shields.io/badge/-FileZilla-00a9e6?style=for-the-badge&logo=filezilla&logoColor=00a9e6&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=ff6c37&labelColor=282828">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <h3 style="color: #fff;">Tools</h3>
+    <img src="https://img.shields.io/badge/-Virtual%20Box-607d8b?style=for-the-badge&logo=virtualbox&logoColor=607d8b&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=for-the-badge&logo=visual-studio&logoColor=5c2d91&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Eclipse-2c2255?style=for-the-badge&logo=eclipse&logoColor=2c2255&labelColor=282828">
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=000000&labelColor=282828">
+    <img src="https://img.shields.io/badge/-NetBeans-2e6f95?style=for-the-badge&logo=netbeans&logoColor=2e6f95&labelColor=282828">
+    <img src="https://img.shields.io/badge/-XAMPP-f76d57?style=for-the-badge&logo=xampp&logoColor=f76d57&labelColor=282828">
+    <img src="https://img.shields.io/badge/-FileZilla-00a9e6?style=for-the-badge&logo=filezilla&logoColor=00a9e6&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=ff6c37&labelColor=282828">
+  </div>
 </div>
 </p>
+
 
 
 
