@@ -30,7 +30,20 @@
 
 <td width="50%">
                <br><br>
-<h3 align="center">Próxmamente</h3>
+<h3 align="center">Souls Gold Ball</h3>
+<div align="center">                                       
+<a href="https://www.youtube.com/watch?v=_SuUolxAAeI&t" target="_blank"><img src="https://i.imgur.com/hyftmwV.png" width="400" alt="Souls Gold Ball"></a>
+<br>
+  <p>
+<a href="https://github.com/SergioJimenezDev/SoulsGoldBall" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=_SuUolxAAeI&t" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Souls Gold Ball es un adictivo juego tipo arcade donde deberás recoger monedas a través de 3 mundos llenos de desafíos. Esquiva enemigos con habilidades y ataques únicos, enfrenta poderosos bosses, supera escenarios contra reloj y experimenta emocionantes cambios de cámara en tu aventura.</p>
+</div>   
                                                          
 </table>                                                                                 
 </div>
