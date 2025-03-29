@@ -28,7 +28,7 @@
 </td>
 
 <td width="50%">
-               <br>
+               <br><br>
 <h3 align="center">Souls Gold Ball</h3>
 <div align="center">                                       
 <a href="https://www.youtube.com/watch?v=_SuUolxAAeI&t" target="_blank"><img src="https://i.imgur.com/hyftmwV.png" width="400" alt="Souls Gold Ball"></a>
