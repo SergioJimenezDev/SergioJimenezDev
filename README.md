@@ -11,7 +11,7 @@
 - ✏️ Lee mis artículos en [Artículos](https://sergiojimenezdev.com/articulos)
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *destacados*
 <table>
 <tr>
 <td width="50%">
