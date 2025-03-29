@@ -5,7 +5,8 @@
 
 ## Sobre mi
 
-- ⭐ Fullstack Developer ⭐ 
+- ⭐ +4 años desarrollando software ⭐ 
+- 💻 Fullstack Developer 💻
 - 📲 Mobile developer 📲
 - 🎥 Te enseño a programar en [Youtube](https://www.youtube.com/@SergioJimenezDev)
 - ✏️ Lee mis artículos aquí [Artículos](https://sergiojimenezdev.com/articulos)
