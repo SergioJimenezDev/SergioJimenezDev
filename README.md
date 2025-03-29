@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Spring%20Boot-6db33f?style=for-the-badge&logo=spring-boot&logoColor=6db33f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Thymeleaf-005f0f?style=for-the-badge&logo=thymeleaf&logoColor=005f0f&labelColor=282828">
   <img src="https://img.shields.io/badge/-PLSQL-bd0202?style=for-the-badge&logo=oracle&logoColor=bd0202&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Máquina%20Virtual-607d8b?style=for-the-badge&logo=virtualbox&logoColor=607d8b&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Virtual%20Box-607d8b?style=for-the-badge&logo=virtualbox&logoColor=607d8b&labelColor=282828">
 </div>
 </p>
 
