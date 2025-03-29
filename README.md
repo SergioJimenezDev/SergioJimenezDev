@@ -35,11 +35,14 @@
 <a href="https://www.youtube.com/watch?v=_SuUolxAAeI&t" target="_blank"><img src="https://i.imgur.com/hyftmwV.png" width="400" alt="Souls Gold Ball"></a>
 <br>
   <p>
+<a href="https://github.com/SergioJimenezDev/SoulsGoldBall" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Souls Gold Ball es un adictivo juego tipo arcade donde deberás recoger monedas a través de 3 mundos llenos de desafíos. Esquiva enemigos con habilidades y ataques únicos, enfrenta poderosos bosses, supera escenarios contra reloj y experimenta emocionantes cambios de cámara en tu aventura.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
