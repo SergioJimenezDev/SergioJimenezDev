@@ -71,7 +71,7 @@
 <td width="50%">
 <h3 align="center">Curso Kotlin Multiplatform</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://sergiojimenezdev.com/" target="_blank"><img src="https://i.imgur.com/lD45rQZ.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Mi sitio web donde podrás ver artículos, videos, información etc...</p>
 </div>
                                                                                       
 </td>  
