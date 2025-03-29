@@ -42,8 +42,10 @@
   <!-- Tools -->
   <h3>Tools</h3>
   <img src="https://img.shields.io/badge/-Virtual%20Box-607d8b?style=for-the-badge&logo=virtualbox&logoColor=607d8b&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=3ddc84&labelColor=282828">
 </div>
 </p>
+
 
 
 
