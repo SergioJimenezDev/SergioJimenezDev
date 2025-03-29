@@ -23,7 +23,6 @@
 </div>
                                                                                       
 </td>
-
 <td width="50%">
 <h3 align="center">Recreación Pokemon En Java</h3>
 <div align="center">                                       
