@@ -20,8 +20,7 @@
 <a href="https://www.youtube.com/watch?v=ZQqaw2HovmM&t=634s" target="_blank"><img src="https://i.imgur.com/tLX0XQQ.png" width="400" alt="Curso Java Desde 0"></a>
 <p>
 <p>Aprende a programar en <strong>Java desde cero</strong> - En este curso aprenderás todo lo necesario, no se requiere tener ningún conocimiento previo.
-</div>
-                                                                                      
+</div>                                                                                      
 </td>
 <td width="50%">
 <h3 align="center">Recreación Pokemon En Java</h3>
