@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- ⭐ +4 años desarrollando software ⭐ 
+- ⭐ +4 años de experiencia desarrollando software ⭐ 
 - 💻 Fullstack Developer 💻
 - 📲 Mobile developer 📲
 - 🎥 Te enseño a programar en [Youtube](https://www.youtube.com/@SergioJimenezDev)
