@@ -18,10 +18,6 @@
 <h3 align="center">Curso Java Desde 0</h3>
 <div align="center">
 <a href="https://www.youtube.com/watch?v=ZQqaw2HovmM&t" target="_blank"><img src="https://i.imgur.com/tLX0XQQ.png" width="400" alt="Curso Java Desde 0"></a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
 <p>Aprende a programar en <strong>Java desde cero</strong> - En este curso aprenderás todo lo necesario sin requerirse ningún conocimiento previo.</p>
 </div>
                                                                                       
@@ -33,11 +29,6 @@
 <div align="center">                                       
 <a href="https://www.youtube.com/watch?v=_SuUolxAAeI&t" target="_blank"><img src="https://i.imgur.com/hyftmwV.png" width="400" alt="Souls Gold Ball"></a>
 <br>
-<p>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
 </div>                                                             
 </table>                                                                                 
