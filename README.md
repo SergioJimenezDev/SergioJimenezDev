@@ -9,7 +9,7 @@
 - 💻 Fullstack Developer 💻
 - 📲 Mobile developer 📲
 - 🎥 Te enseño a programar en [Youtube](https://www.youtube.com/@SergioJimenezDev)
-- ✏️ Lee mis artículos aquí [Artículos](https://sergiojimenezdev.com/articulos)
+- ✏️ Lee mis artículos [aquí](https://sergiojimenezdev.com/articulos)
 <br>
 
 ## Tech Stack
