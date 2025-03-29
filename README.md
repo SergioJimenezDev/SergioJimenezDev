@@ -18,7 +18,6 @@
 <h3 align="center">Curso Java Desde 0</h3>
 <div align="center">
 <a href="https://www.youtube.com/watch?v=ZQqaw2HovmM&t" target="_blank"><img src="https://i.imgur.com/tLX0XQQ.png" width="400" alt="Curso Java Desde 0"></a>
-
 <p>Aprende a programar en <strong>Java desde cero</strong> - En este curso aprenderás todo lo necesario sin requerirse ningún conocimiento previo.</p>
 </div>
                                                                                       
