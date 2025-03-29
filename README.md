@@ -77,7 +77,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-<p>Aprende a programar en <strong>Java desde cero</strong> - En este curso aprenderás todo lo necesario sin requerirse ningún conocimiento previo.</p>
+<p>Aprende a programar en <strong>Java desde cero</strong>. En este curso aprenderás todo lo necesario sin requerirse ningún conocimiento previo.</p>
 </div>
                                                                                       
 </td>
