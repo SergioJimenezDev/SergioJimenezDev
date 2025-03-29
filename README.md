@@ -17,9 +17,20 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=007396&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C%23-68217a?style=for-the-badge&logo=c-sharp&logoColor=68217a&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Unity-ffffff?style=for-the-badge&logo=unity&logoColor=ffffff&labelColor=282828">
+  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Android/Kotlin-3ddc84?style=for-the-badge&logo=android&logoColor=3ddc84&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6db33f?style=for-the-badge&logo=spring-boot&logoColor=6db33f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Thymeleaf-005f0f?style=for-the-badge&logo=thymeleaf&logoColor=005f0f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PLSQL-bd0202?style=for-the-badge&logo=oracle&logoColor=bd0202&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Máquina%20Virtual-607d8b?style=for-the-badge&logo=virtualbox&logoColor=607d8b&labelColor=282828">
 </div>
 </p>
+
 
 ## Proyectos *destacados*
 <table>
