@@ -7,7 +7,7 @@
 
 - ⭐ +3 años de experiencia desarrollando software ⭐ 
 - 💻 Fullstack Developer 💻
-- 📲 Mobile developer 📲
+- 📲 Game developer 📲
 - 🎥 Te enseño a programar en [Youtube](https://www.youtube.com/@SergioJimenezDev)
 - ✏️ Lee mis artículos [aquí](https://sergiojimenezdev.com/articulos)
 <br>
