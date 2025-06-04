@@ -42,13 +42,6 @@
     <img src="https://img.shields.io/badge/-C%23-68217a?style=for-the-badge&logo=c-sharp&logoColor=68217a&labelColor=282828">
   </div>
 
-  <!-- Mobile Development -->
-  <div style="flex: 1 1 200px; text-align: center;">
-    <h3 style="color: #fff;">Mobile Development</h3>
-    <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=3ddc84&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Kotlin-3ddc84?style=for-the-badge&logo=android&logoColor=3ddc84&labelColor=282828">
-  </div>
-
   <!-- Tools -->
   <div style="flex: 1 1 200px; text-align: center;">
     <h3 style="color: #fff;">Tools</h3>
